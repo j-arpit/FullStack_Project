@@ -1,0 +1,1 @@
+INSERT INTO USER (EMAIL, FIRST_NAME, LAST_NAME, USERNAME, PASSWORD, ROLE ) VALUES ("arpitjoshi333#gmail.com", "Arpit", "Joshi", "aj333", "toor", "admin");
